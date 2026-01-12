@@ -104,5 +104,5 @@ V. Srilakshmi, D. Purushotham, **Chinta Abhinav**, Nikhil Godalla, S. V. Varshit
 ## 🤝 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/abhinav-chinta-2617l)
 - 💻 [GitHub](https://github.com/chintaabhinav)
-- 🧍‍♂️ [Website] (https://abhinavtech.me/)
+- 🧍‍♂️ [Website](https://abhinavtech.me/)
 - 📫 Email: chinta.abhi@northeastern.edu
