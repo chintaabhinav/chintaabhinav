@@ -18,8 +18,7 @@ I’m passionate about designing reliable systems, writing clean and maintainabl
 
 ### 🔭 Currently exploring
 - Full-Stack system design for high-scale applications  
-- Kubernetes for production workloads  
-- Secure authentication & authorization (JWT, OAuth)  
+- Kubernetes for production workloads    
 - AI-enabled backend services  
 
 ### 🌱 Deepening expertise in
@@ -37,7 +36,7 @@ I’m passionate about designing reliable systems, writing clean and maintainabl
 React • Angular • JavaScript • TypeScript • HTML • Tailwind CSS  
 
 **Backend:**  
-Node.js • Express • Java • Spring Boot • ASP.NET • FastAPI  
+Node.js • Express • Java • Spring Boot • .NET • FastAPI  
 
 **Databases & Caching:**  
 MySQL • PostgreSQL • MS SQL Server • MongoDB • Redis  
@@ -68,9 +67,8 @@ Achieved **40% faster deployments** through Infrastructure as Code and CI/CD aut
 
 ---
 
-### 🔹 NVIDIA Multimodal Research Assistant
-Developed a **full-stack multimodal RAG platform** using **FastAPI (backend), Streamlit (frontend), Apache Airflow (pipelines), Docker, Pinecone, and LlamaIndex**.  
-Enabled intelligent document ingestion, summarization, and conversational search over large research datasets.
+### 🔹 Insurance Fraud Detection using Neo4j
+An AI-powered insurance fraud detection system that automatically extracts data from claim PDFs using **Gemini LLM** and analyzes relationships in a **Neo4j** graph database to uncover fraud rings, featuring **dual RAG and graph-query chatbots for natural language investigation**.
 
 ---
 
@@ -79,7 +77,17 @@ Designed and implemented a **React + Node.js + MongoDB** platform supporting **5
 - Real-time RSVP tracking  
 - QR-code ticketing  
 - Admin dashboards with analytics  
-- Google Calendar API integration  
+- Google Calendar API integration
+
+---
+
+### 🔹 NewEngland Insurance Management
+Designed Java-based desktop application built with **Java Swing** and **object-oriented design principles** to manage insurance policies and customer workflows. It integrates a **SQL-backed** for reliable data handling and includes real-time email notifications using the **Oracle Mail JAR** to streamline client communication and system updates.
+
+---
+
+### 🔹 Brain Tumor Detection using CNN
+Developed deep learning project that applies **Convolutional Neural Networks (CNNs)** to classify brain MRI images for tumor detection. The model learns spatial and texture-based features from medical images, enabling accurate identification of tumor presence and supporting automated medical image analysis.
 
 ---
 
@@ -93,12 +101,8 @@ V. Srilakshmi, D. Purushotham, **Chinta Abhinav**, Nikhil Godalla, S. V. Varshit
 
 ---
 
-## 📊 GitHub Stats
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=chintaabhinav&show_icons=true)
-
----
-
 ## 🤝 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/abhinav-chinta-2617l)
 - 💻 [GitHub](https://github.com/chintaabhinav)
+- 🧍‍♂️ [Website] (https://abhinavtech.me/)
 - 📫 Email: chinta.abhi@northeastern.edu
