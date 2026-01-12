@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I’m a **Full-Stack Software Engineer, Cloud & DevOps Specialist** with hands-on experience building **end-to-end web applications**, automating cloud infrastructure, and deploying scalable systems across **AWS, Azure, and GCP**.
 
-I work at the intersection of **frontend engineering, backend systems, and cloud-native DevOps**, with growing exposure to **AI-powered applications and Retrieval-Augmented Generation (RAG)**.
+I work at the intersection of **frontend engineering, backend systems, and cloud-native DevOps**, with growing exposure to **AI-powered applications**.
 
 I’m passionate about designing reliable systems, writing clean and maintainable code, and leveraging cloud automation to solve real-world engineering problems.
 
