@@ -1,7 +1,7 @@
 # Hi there, I'm Abhinav Chinta 👋
 
 ## 🚀 About Me
-I’m a **Full-Stack Software Engineer, Cloud & DevOps Specialist** with hands-on experience building **end-to-end web applications**, automating cloud infrastructure, and deploying scalable systems across **AWS, Azure, and GCP**.
+I’m a **Full-Stack Software Engineer, Cloud & DevOps Specialist** with 2+ Years of experience building **end-to-end web applications**, automating cloud infrastructure, and deploying scalable systems across **AWS, Azure, and GCP**.
 
 I work at the intersection of **frontend engineering, backend systems, and cloud-native DevOps**, with growing exposure to **AI-powered applications**.
 
